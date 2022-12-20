@@ -12,4 +12,6 @@
   <img align="center" alt="Grazi-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="Grazi-javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Grazi-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 
+
+  ![Snake animation](https://github.com/agraziella/agraziella/blob/output/github-contribution-grid-snake.svg)
 </div>
