@@ -6,10 +6,10 @@
 
 🌱 I’m currently learning HTML5, CSS, JAVA
 
-<div>
+<div align="center">
   <a href="https://github.com/agraziella"/>
-  <img height ="180em" src="https://github-readme-stats.vercel.app/api?username=agraziella&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height ="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agraziella&layout=compact&langs_count=16&theme=dark"/>
+  <img  width:"49%" height ="195px" src="https://github-readme-stats.vercel.app/api?username=agraziella&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&icon_color=000080&bg_color=000000&text_color=FFFFFF" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agraziella&layout=compact&langs_count=16&layout=compact&hide_border=true&bg_color=000000&text_color=FFFFFF"/>
 </div>
 
 ##
