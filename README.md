@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=120&section=header"/>
 
-### Oi, gente!!! 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Oi,+tudo+bem+?)](https://git.io/typing-svg)
 
 ##
 
