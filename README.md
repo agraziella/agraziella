@@ -9,12 +9,13 @@
 
 <div align="center">
   <a href="https://github.com/agraziella"/>
-  <img  width:"49%" height ="195px" src="https://github-readme-stats.vercel.app/api?username=agraziella&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&icon_color=000080&bg_color=000000&text_color=FFFFFF" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agraziella&layout=compact&langs_count=16&layout=compact&hide_border=true&bg_color=000000&text_color=FFFFFF"/>
+  <img  width:"49%" height ="195px" src="https://github-readme-stats.vercel.app/api?username=agraziella&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&icon_color=000080&bg_color=00000000&text_color=0000ff" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agraziella&layout=compact&langs_count=16&layout=compact&hide_border=true&bg_color=00000000&text_color=0000ff"/>
 </div>
 
+<p></p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=agraziella&bg_color=000000&color=ffffff&line=000080&point=00bfff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=agraziella&bg_color=00000000&color=000000&line=000080&point=00bfff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=agraziella&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
