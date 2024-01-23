@@ -5,7 +5,7 @@
 
 ##
 
-🌱 I’m currently learning HTML5, CSS, JAVA
+🌱 I’m currently learning JAVA, PYTHON, C#
 
 <div align="center">
   <a href="https://github.com/agraziella"/>
